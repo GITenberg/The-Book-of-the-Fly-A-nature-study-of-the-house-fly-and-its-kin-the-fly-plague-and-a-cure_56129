@@ -1,0 +1,25 @@
+_repo: The-Book-of-the-Fly-A-nature-study-of-the-house-fly-and-its-kin-the-fly-plague-and-a-cure_56129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, G. Hurlstone
+    birthdate: 1882
+    deathdate: 1966
+    gutenberg_agent_id: '48683'
+    url: http://www.gutenberg.org/2009/agents/48683
+description: ''
+gutenberg_issued: '2017-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insect pests'
+- GITenberg
+title: 'The Book of the Fly
+
+  A nature study of the house-fly and its kin, the fly plague and a cure'
+url: http://www.gutenberg.org/ebooks/56129
